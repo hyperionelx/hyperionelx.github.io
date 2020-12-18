@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f28c01;
+  background: #ff711a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,4 +2659,19 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: url("/images/1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+/*这是设置底部文字, 看个人需要修改*/
+}
+body #footer > div > div {
+  color: #eee;
 }
