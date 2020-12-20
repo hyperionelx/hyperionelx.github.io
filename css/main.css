@@ -2610,7 +2610,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffaffb;
+  background: #5752a7;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2644,15 +2644,15 @@ body {
   transition: all 0.2s ease-in-out;
 }
 .header-inner {
-  opacity: 0.85;
+  opacity: 0.5;
 }
 .sidebar {
   transition-duration: 0.4s;
-  opacity: 0.85;
+  opacity: 0.5;
 }
 .content {
   padding-top: 15px;
-  opacity: 0.9;
+  opacity: 0.5;
 }
 .sidebar-inner {
   background: var(--content-bg-color);
