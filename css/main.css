@@ -2726,15 +2726,6 @@ body {
   padding-top: 15px;
   opacity: 0.9;
 }
-.header-inner {
-  border-radius: 20px 20px 20px 20px;
-  opacity: 0.85;
-}
-.sidebar {
-  transition-duration: 0.4s;
-  opacity: 0.85;
-  border-radius: 10px 10px 10px 10px;
-}
 .sidebar-inner {
   background: var(--content-bg-color);
   border-radius: 10px 10px 10px 10px;
